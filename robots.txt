@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sashapb.github.io/sitemap.xml
+Sitemap: https://sashapb.github.iohttps://sashapb.github.io/sitemap.xml
